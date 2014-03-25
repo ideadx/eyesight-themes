@@ -1,6 +1,6 @@
 eyesight themes
 ===============
-Themes for better Eye Sight while coding...
+Themes for brilliant Eye Sight while coding...
 
 How to Install on Sublime text?
 1. Download Theme from list (.tmTheme files)
