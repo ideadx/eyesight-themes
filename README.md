@@ -12,3 +12,5 @@ Screen Shot of Greenacre installed on Sublime Text: http://cl.ly/Udin
 
 
 help or suggestions are welcome @ https://twitter.com/star18bit
+
+If themes have improved your productivity and eyesight please consider buying it for only 0.99: http://bit.ly/1eMxBWD (Paypal)  
