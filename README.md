@@ -7,4 +7,4 @@ How to Install on Sublime text?
 2. Go to Preference > Browse Packages 
 3. Copy downloaded file into Users directory.
 
-help or suggestion welcome : https://twitter.com/star18bit
+help or suggestions are welcome @ https://twitter.com/star18bit
