@@ -8,4 +8,7 @@ How to Install on Sublime text?
 3. Copy downloaded file into Users directory.
 4. Go back to your sublime text prefrences > color prefrence > pick Greenacre from the list 
 
+Screen Shot of Greenacre installed on Sublime Text: http://cl.ly/Udin 
+
+
 help or suggestions are welcome @ https://twitter.com/star18bit
